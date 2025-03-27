@@ -1,6 +1,6 @@
 {
-    "name": "Dapps Galore",
-    "description": "Dapps built by the Minima team",
+    "name": "Jazminima Store",
+    "description": "With love from the Minima team",
     "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/store-icon.jpg?raw=true",
     "version": "1.0",
   
@@ -485,7 +485,7 @@
         },
       {
         "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/sqlbench-0.6.1.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/sql.png",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/sql.png?raw=true",
         "name": "SQL Bench",
         "description": "Basic development tool for testing SQL",
         "version": "0.6.1",
