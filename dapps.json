@@ -206,8 +206,8 @@
         ]
       },
       {
-              "file": "https://storage.googleapis.com/minidapp-store/ecosystem-store/ecosystem-minidapps/lotto-1.0.0.mds.zip",
-              "icon": "https://storage.googleapis.com/minidapp-store/ecosystem-store/ecosystem-icons/lotto.png?raw=true",
+              "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/lotto-1.0.0.mds.zip",
+              "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/lotto.png?raw=true",
               "name": "Lotto",
               "description": "Secure, fair, unstoppable lotto game",
               "category": "Gaming",
@@ -467,7 +467,7 @@
         "history": []
       },
       {
-          "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/beta/soko-1.0.1.mds.zip",
+          "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/soko-1.0.1.mds.zip",
           "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/soko.png?raw=true",
           "name": "soko",
           "description": "Decentralized NFT Marketplace for listing, selling and purchasing NFTs over Minima. ",
@@ -485,7 +485,7 @@
         },
       {
         "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/sqlbench-0.6.1.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/sql.jpg",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/sql.png",
         "name": "SQL Bench",
         "description": "Basic development tool for testing SQL",
         "version": "0.6.1",
@@ -526,7 +526,7 @@
         ]
       },
       {
-          "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/beta/token-studio-1.5.0.mds.zip",
+          "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/token-studio-1.5.0.mds.zip",
           "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/tokenstudio.png?raw=true",
           "name": "Token Studio",
           "description": "Mint simple, custom and non-fungible tokens (NFTs) on Minima",
@@ -598,7 +598,7 @@
       {
           "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/webWallet-2.5.2.mds.zip",
           "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/webwallet.png?raw=true",
-          "name": "webWallet",
+          "name": "Web Wallet",
           "description": "Simple Minima web wallet",
           "version": "2.5.2",
           "about": [
