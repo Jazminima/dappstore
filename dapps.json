@@ -6,8 +6,8 @@
   
     "dapps": [
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/axes3-1.0.0.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/axes3.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/axes3-1.0.0.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/axes3.png?raw=true",
         "name": "Axe S3",
         "description": "Prove ownership of tokens",
         "version": "1.0.0",
@@ -24,8 +24,8 @@
         }]
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/block-3.3.4.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/block.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/block-3.3.4.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/block.png?raw=true",
         "name": "Block",
         "description": "Explore the Minima blockchain",
         "version": "3.3.4",
@@ -44,8 +44,8 @@
         ]
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/chainmail-1.12.5.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/chainmail.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/chainmail-1.12.5.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/chainmail.png?raw=true",
         "name": "ChainMail",
         "description": "Decentralized email ",
         "version": "1.12.5",
@@ -57,8 +57,8 @@
         "history": [{}]
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/chatter-1.12.0.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/chatter.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/chatter-1.12.0.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/chatter.png?raw=true",
         "name": "Chatter",
         "description": "Social media and messaging over Maxima",
         "version": "1.12.0",
@@ -80,8 +80,8 @@
         ]
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/dapp_store-1.5.1.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/dappstore.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/dapp_store-1.5.1.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/dappstore.png?raw=true",
         "name": "Dapp Store",
         "description": "View and add MiniDapp stores",
         "version": "1.5.1",
@@ -99,8 +99,8 @@
         ]
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/docs-2.1.0.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/helpdocs.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/docs-2.1.0.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/helpdocs.png?raw=true",
         "name": "Docs",
         "description": "Minima Documentation and Tutorials",
         "version": "2.1.0",
@@ -114,8 +114,8 @@
         ]
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/ethwallet-1.11.0.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/ethwallet.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/ethwallet-1.11.0.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/ethwallet.png?raw=true",
         "name": "Ethwallet",
         "description": "Non-custodial Ethereum wallet",
         "version": "1.11.0",
@@ -143,8 +143,8 @@
         ]
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/filez-1.9.4.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/filez.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/filez-1.9.4.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/filez.png?raw=true",
         "name": "Filez",
         "description": "A simple file manager",
         "version": "1.9.4",
@@ -159,8 +159,8 @@
         ]
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/futurecash-2.7.1.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/futurecash.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/futurecash-2.7.1.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/futurecash.png?raw=true",
         "name": "Future Cash",
         "description": "Send cash to the Future!",
         "version": "2.7.1",
@@ -175,8 +175,8 @@
         ]
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/health-1.3.2.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/health.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/health-1.3.2.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/health.png?raw=true",
         "name": "Health",
         "description": "Check the status and health of your node",
         "version": "1.3.2",
@@ -190,8 +190,8 @@
         ]
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/logs-1.0.4.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/logs.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/logs-1.0.4.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/logs.png?raw=true",
         "name": "Logs",
         "description": "View and download the logs for your node",
         "version": "1.0.4",
@@ -207,7 +207,7 @@
       },
       {
               "file": "https://storage.googleapis.com/minidapp-store/ecosystem-store/ecosystem-minidapps/lotto-1.0.0.mds.zip",
-              "icon": "https://storage.googleapis.com/minidapp-store/ecosystem-store/ecosystem-icons/lotto.png",
+              "icon": "https://storage.googleapis.com/minidapp-store/ecosystem-store/ecosystem-icons/lotto.png?raw=true",
               "name": "Lotto",
               "description": "Secure, fair, unstoppable lotto game",
               "category": "Gaming",
@@ -224,14 +224,14 @@
               ]
           },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/maxcontacts-1.14.0.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/maxcontacts.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/maxcontacts-1.14.0.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/maxcontacts.png?raw=true",
         "name": "MaxContacts",
         "description": "Manage your Maxima contacts",
         "version": "1.14.0",
         "about": "Set your Maxima profile name and add, remove or share Maxima contact addresses.",
         "update": [
-          "- Added Profile icon support - 50kb max size (Supports .png,.jpeg,.jpg,.svg,.xml,.gif)\n",
+          "- Added Profile icon support - 50kb max size (Supports .png?raw=true,.jpeg,.jpg,.svg,.xml,.gif)\n",
           "- Added QR Code to profiles"
         ],
         "date": "Jul 05, 2024",
@@ -239,8 +239,8 @@
         ]
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/maximize-1.3.0.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/maximize.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/maximize-1.3.0.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/maximize.png?raw=true",
         "name": "Maximize",
         "description": "Stake native Minima and earn yield",
         "version": "1.3.0",
@@ -257,8 +257,8 @@
         ]
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/maxsolo-2.7.2.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/maxsolo.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/maxsolo-2.7.2.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/maxsolo.png?raw=true",
         "name": "MaxSolo",
         "description": "P2P chat app running over Maxima",
         "version": "2.7.2",
@@ -280,8 +280,8 @@
         ]
       },
       {
-          "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/minifs-1.4.4.mds.zip",
-          "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/minifs.png",
+          "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/minifs-1.4.4.mds.zip",
+          "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/minifs.png?raw=true",
           "name": "MiniFS",
           "description": "Minima Decentralised File System",
           "version": "1.4.4",
@@ -318,8 +318,8 @@
           "history": [{}]
         },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/miniswap-2.20.0.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/miniswap.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/miniswap-2.20.0.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/miniswap.png?raw=true",
         "name": "MiniSwap",
         "description": "P2P trading of USDT or WMINIMA for native MINIMA",
         "version": "2.20.0",
@@ -335,8 +335,8 @@
         ]
       },
       {
-          "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/miniweb-1.6.1.mds.zip",
-          "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/miniweb.png",
+          "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/miniweb-1.6.1.mds.zip",
+          "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/miniweb.png?raw=true",
           "name": "MiniWEB",
           "description": "Create and browse decentralised websites and minidapps",
           "dependencies": ["MiniFS"],
@@ -355,8 +355,8 @@
           "history": [{}]
         },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/news-2.0.1.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/news.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/news-2.0.1.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/news.png?raw=true",
         "name": "News Feed",
         "description": "Keep up to date with Minima News",
         "version": "2.0.1",
@@ -366,8 +366,8 @@
         "history": []
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/pending-1.2.10.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/pending.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/pending-1.2.10.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/pending.png?raw=true",
         "name": "Pending",
         "description": "Accept or deny pending actions",
         "version": "1.2.10",
@@ -381,8 +381,8 @@
         ]
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/thesafe-1.7.0.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/safe.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/thesafe-1.7.0.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/safe.png?raw=true",
         "name": "The Safe",
         "description": "Lock your funds in a Safe",
         "version": "1.7.0",
@@ -403,8 +403,8 @@
         ]
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/scriptide-3.1.4.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/scriptide.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/scriptide-3.1.4.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/scriptide.png?raw=true",
         "name": "Script IDE",
         "description": "Minima Script IDE",
         "version": "3.1.4",
@@ -432,8 +432,8 @@
         ]
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/security-1.14.3.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/security.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/security-1.14.3.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/security.png?raw=true",
         "name": "Security",
         "description": "Keep your data and funds safe",
         "version": "1.14.3",
@@ -452,8 +452,8 @@
         ]
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/shoutout-1.4.1.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/shoutout.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/shoutout-1.4.1.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/shoutout.png?raw=true",
         "name": "Shout Out",
         "description": "A social forum for threaded, categorised discussions",
         "version": "1.4.1",
@@ -467,8 +467,8 @@
         "history": []
       },
       {
-          "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/beta/soko-1.0.1.mds.zip",
-          "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/soko.png",
+          "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/beta/soko-1.0.1.mds.zip",
+          "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/soko.png?raw=true",
           "name": "soko",
           "description": "Decentralized NFT Marketplace for listing, selling and purchasing NFTs over Minima. ",
           "version": "1.0.1",
@@ -484,7 +484,7 @@
           "history": [{}]
         },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/sqlbench-0.6.1.mds.zip",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/sqlbench-0.6.1.mds.zip",
         "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/sql.jpg",
         "name": "SQL Bench",
         "description": "Basic development tool for testing SQL",
@@ -497,8 +497,8 @@
         "history": []
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/terminal-3.1.8.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/terminal.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/terminal-3.1.8.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/terminal.png?raw=true",
         "name": "Terminal",
         "description": "Terminal CLI for Minima",
         "version": "3.1.8",
@@ -526,8 +526,8 @@
         ]
       },
       {
-          "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/beta/token-studio-1.5.0.mds.zip",
-          "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/tokenstudio.png",
+          "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/beta/token-studio-1.5.0.mds.zip",
+          "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/tokenstudio.png?raw=true",
           "name": "Token Studio",
           "description": "Mint simple, custom and non-fungible tokens (NFTs) on Minima",
           "version": "1.5.0",
@@ -540,8 +540,8 @@
           "history": [{}]
         },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/vestr-1.8.1.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/vestr.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/vestr-1.8.1.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/vestr.png?raw=true",
         "name": "Vestr",
         "description": "Create vesting contracts and collect payments",
         "version": "1.8.1",
@@ -565,8 +565,8 @@
         ]
       },
       {
-        "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/wallet-3.0.17.mds.zip",
-        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/wallet.png",
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/wallet-3.0.17.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/wallet.png?raw=true",
         "name": "Wallet",
         "description": "Official Minima wallet",
         "version": "3.0.17",
@@ -574,7 +574,7 @@
           "Native Minima wallet.\n\n",
           "Using the Wallet MiniDapp, you can:\n\n",
           "- Check the balance of your Minima or any other Custom Tokens or NFTs you own\n",
-          "- Create your own Custom Tokens and NFTs. Enter a URL ending in .jpg, .jpeg or .png to give your tokens an image\n",
+          "- Create your own Custom Tokens and NFTs. Enter a URL ending in .jpg, .jpeg or .png?raw=true to give your tokens an image\n",
           "- Share your Minima address with others for receiving $MINIMA, Custom Tokens or NFTs created on the Minima blockchain\n",
           "- Send $MINIMA, Custom Tokens or NFTs created on the Minima blockchain to other Minima addresses\n",
           "- Check the Status of your Minima node\n\n",
@@ -596,8 +596,8 @@
         ]
       },
       {
-          "file": "https://github.com/Jazminima/dappstore/blob/main/dapps/webWallet-2.5.2.mds.zip",
-          "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/webwallet.png",
+          "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/webWallet-2.5.2.mds.zip",
+          "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/webwallet.png?raw=true",
           "name": "webWallet",
           "description": "Simple Minima web wallet",
           "version": "2.5.2",
