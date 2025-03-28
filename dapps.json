@@ -596,20 +596,78 @@
         ]
       },
       {
-          "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/webWallet-2.5.2.mds.zip",
-          "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/webwallet.png?raw=true",
-          "name": "Web Wallet",
-          "description": "Simple Minima web wallet",
-          "version": "2.5.2",
-          "about": [
-            "Web wallet"
-          ],
-          "update": [
-          ],
-          "date": "Mar 25, 2025",
-          "history": [
-          ]
-        }
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/secretsvault-0.4.3.mds.zip",
+        "icon": "https://storage.googleapis.com/minidapp-store/ecosystem-store/ecosystem-icons/secretsvault.png",
+        "name": "Secrets Vault",
+        "description": "Safeguard and recover your Minima seed phrases (or any other text) using a simple image.",
+        "category": "Other",
+        "version": "0.4.3",
+        "about" : ["With this Minidapp, you can safeguard and recover your Minima seed phrases (or any other text) using a simple image. Only you can access your secret and the image you use, neither Secrets Vault nor Minima can see them. No write permissions required."],
+        "update": [
+          "First release"
+        ],
+        "date": "Feb 26, 2025",
+        "history": [
+          {
+  
+          }
+        ]
+      },
+      {
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/VOX-1.5.0.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/vox.png?raw=true",
+        "name": "VOX",
+        "description": "Decentralized, on-chain social platform",
+        "category": "Social",
+        "version": "1.5.0",
+        "about" : [" V returns the internet to its original vision of unrestricted communication and freedom. Users can share posts, V-stacks and polls on-chain, creating a space where users can freely express, connect, and interact."],
+        "update": [
+          "- Send and receive payments directly in the app\n",
+          "- Set up payment notifications and preferences\n",
+          "- React to posts and comments with emojis!\n",
+          "- V tags - A new way to explore and engage with content.\n",
+          "- New Trending Subvs section for discovering popular content\n",
+          "- Notification Center added for real-time updates\n",
+          "- Improved navigation & mobile responsiveness\n"
+        ],
+        "date": "Mar 28, 2025",
+        "history": [
+        ]
+      },
+      {
+        "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/yepp-1.0.12.mds.zip",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/yepp.png?raw=true",
+        "name": "Yepp!",
+        "description": "Yepp! App offers a stylish and user-friendly interface that makes monitoring node activities effortless, ensuring a smooth and enjoyable user experience.",
+        "category": "Other",
+        "version": "1.0.12",
+        "about" : ["Features:\n",
+              "- Node & Asset Monitoring\n",
+              "- Upgraded Terminal CLI\n",
+              "- Disk Usage Insights\n",
+              "- Smart Notifications\n",
+              "- Minima Price Tracker\n",
+              "- Profile & Account Hub\n",
+              "- Contacts Manager\n",
+              "- Asset Dashboard\n",
+              "- NFT Genesis\n",
+              "- Auction Watchlist\n",
+              "- P2P Chat (Maxitalk)\n",
+              "- Fast Coin & Token Transfers\n",
+              "- Dapp Sharing Hub\n",
+              "- NFT Public Gallery\n",
+              "- Live Crypto Price Board\n",
+              "- Command Library"],
+        "update": [
+          "First release"
+        ],
+        "date": "Feb 20, 2025",
+        "history": [
+          {
+  
+          }
+        ]
+      }
     ]
   }
   
