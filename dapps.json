@@ -597,7 +597,7 @@
       },
       {
         "file": "https://github.com/Jazminima/dappstore/raw/refs/heads/main/dapps/secretsvault-0.4.3.mds.zip",
-        "icon": "https://storage.googleapis.com/minidapp-store/ecosystem-store/ecosystem-icons/secretsvault.png",
+        "icon": "https://github.com/Jazminima/dappstore/blob/main/icons/secretsvault.png?raw=true",
         "name": "Secrets Vault",
         "description": "Safeguard and recover your Minima seed phrases (or any other text) using a simple image.",
         "category": "Other",
